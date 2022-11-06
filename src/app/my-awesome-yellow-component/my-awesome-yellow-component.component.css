@@ -1,0 +1,9 @@
+.yellow-container{
+  background-color: lightgoldenrodyellow;
+  width: 200px;
+  height: 200px;
+}
+.red-text{
+  color: red;
+  font-size: 1.3em;
+}

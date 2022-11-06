@@ -1,0 +1,10 @@
+.blue-container{
+  background-color: lightblue;
+  width: 400px;
+  height: 400px;
+  margin: 20px;
+}
+.blue-text{
+  font-size: 3em;
+  color: blue;
+}

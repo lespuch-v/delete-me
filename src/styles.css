@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+.my-button-titanic{
+  color: greenyellow !important;
+  font-size: 1rem!important;
+  background-color: lightseagreen!important;
+}
+.my-border-class{
+  border: 2px solid black;
+}
